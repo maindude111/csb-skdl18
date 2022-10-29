@@ -1,0 +1,2 @@
+(this["webpackJsonpfluentui-react-8-starter"]=this["webpackJsonpfluentui-react-8-starter"]||[]).push([[0],{41:function(e,t,r){"use strict";r.r(t);var n=r(0),l=r(24),a=r(59),c=r(60),u=r(58);Object(a.a)();var o=function(){return n.createElement(c.a,null,n.createElement(u.a,{onClick:function(){return alert("hello")}},"Hello World"))},i=document.getElementById("root");Object(l.render)(n.createElement(o,null),i)}},[[41,1,2]]]);
+//# sourceMappingURL=main.1ff1863c.chunk.js.map
